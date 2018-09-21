@@ -1,5 +1,7 @@
 #/bin/python
 """
+Url : https://leetcode.com/problems/simplify-path/description/
+
 Prob : 
 Given an absolute path for a file (Unix-style), simplify it. 
 
